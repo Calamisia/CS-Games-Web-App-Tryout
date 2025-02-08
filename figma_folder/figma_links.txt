@@ -1,2 +1,7 @@
 Please put the links to your Figma designs (or any other application you are using) in this file. Make sure we can access it, but that no one else can modify it besides you.
 If you have any other resources that you would like us to see, please add them here as well.
+
+
+https://www.figma.com/design/jYsT8FeKL6Pz7tmpeezOxC/Hotel?node-id=0-1&t=YtpPtQUMpuEYQ126-1
+
+This is the landing page I made in Figma.
